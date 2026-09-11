@@ -7,5 +7,4 @@ for num in numbers:
         frequency[num] += 1
     else:
         frequency[num] = 1
-
 print(frequency)
