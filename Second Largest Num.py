@@ -6,7 +6,6 @@ for num in numbers:
     
     if num > largest:
         second = largest
-        
         largest = num
         
     elif num > second and num != largest:
