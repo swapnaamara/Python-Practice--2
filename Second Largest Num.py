@@ -8,6 +8,7 @@ for num in numbers:
         second = largest
         
         largest = num
+        
     elif num > second and num != largest:
         second = num
 
