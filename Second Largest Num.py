@@ -10,6 +10,7 @@ for num in numbers:
         largest = num
         
     elif num > second and num != largest:
+        
         second = num
 
 print("Second largest:", second)
