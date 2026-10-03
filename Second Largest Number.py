@@ -1,4 +1,5 @@
 numbers = [10, 25, 8, 45, 30]
+
 largest = second = float('-inf')
 
 for num in numbers:
