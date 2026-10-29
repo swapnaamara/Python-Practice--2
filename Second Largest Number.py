@@ -4,7 +4,6 @@ largest = second = float('-inf')
 for num in numbers:
     
     if num > largest:
-        
         second = largest
         largest = num
         
